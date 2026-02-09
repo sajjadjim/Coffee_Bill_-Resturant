@@ -74,7 +74,7 @@ if (redCoffee.isSelected()) {
 // Total Calculation
 double tax = subtotal * TAXRATE;
 double total = subtotal + tax;
-
+```
 
 👤 Author
 Sajjad Hossain Jim
